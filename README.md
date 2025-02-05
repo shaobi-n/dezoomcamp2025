@@ -15,3 +15,9 @@ Question 4:
 ![image](https://github.com/user-attachments/assets/e5d3c191-1bd6-43ac-964a-a15d350d7f72)
 
 The number of rows is 1734051
+
+Question 5: 
+
+![image](https://github.com/user-attachments/assets/820acbe5-c243-4802-85d7-2974b8dba44b)
+
+The number of rows is 2171187
