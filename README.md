@@ -11,5 +11,7 @@ Question 2:
 The output name is green_tripdata_2020-04.csv
 
 Question 4:
+
 ![image](https://github.com/user-attachments/assets/e5d3c191-1bd6-43ac-964a-a15d350d7f72)
+
 The number of rows is 1734051
